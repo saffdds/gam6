@@ -7,7 +7,7 @@ WHITE, RED, BLUE, BLACK, GREEN, GRAY = (255, 255, 255), (200, 0, 0), (0, 0, 200)
 
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Gam6 Version 2.0")
+pygame.display.set_caption("Gam6 Version 3.0")
 clock = pygame.time.Clock()
 
 # Font
